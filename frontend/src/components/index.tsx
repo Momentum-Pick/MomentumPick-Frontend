@@ -170,7 +170,7 @@ const Index = () => {
         <div className="flex items-center justify-between mb-6">
           <div>
             <h1 className="text-2xl font-bold text-foreground">
-              5거래일 시차 실손: 급등/급락 종목
+              5거래일 기준 급등/급락 종목
             </h1>
             {usingMockData && (
               <p className="text-sm text-yellow-500 mt-1">
