@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Gain / Loss 기본색 */
+  --gain: 142 72% 45%;
+  --loss: 0 72% 55%;
+
+  /* 카드 배경 */
+  --gain-card: 142 52% 95%;
+  --loss-card: 0 52% 95%;
+
+  /* 테두리 */
+  --gain-border: 142 45% 55%;
+  --loss-border: 0 45% 60%;
+
+  /* 전체 화면 색 */
+  --background: 222.2 84% 5%;
+  --foreground: 210 40% 98%;
+
+  /* 카드 기본 색상 - 카드 배경은 밝게, 텍스트는 어둡게 설정 */
+  --card: 0 0% 100%;
+  --card-foreground: 222.2 84% 5%;
+}

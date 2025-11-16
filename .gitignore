@@ -1,0 +1,33 @@
+# Dependencies
+frontend/node_modules
+backend/.venv
+
+# Build outputs
+frontend/dist
+
+# Environment variables
+.env
+backend/.env
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Cache
+*.cache
+analysis_cache_*.json

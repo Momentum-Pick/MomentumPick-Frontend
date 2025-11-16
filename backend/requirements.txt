@@ -1,0 +1,7 @@
+pandas
+pykrx
+openpyxl
+apscheduler
+fastapi
+uvicorn[standard]
+aiofiles
